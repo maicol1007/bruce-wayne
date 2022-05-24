@@ -1,0 +1,45 @@
+html {
+  font-size: 8px;
+  font-family: "Open Sans";
+}
+html {
+  background-color: black;
+}
+
+body {
+  font-size: 15px;
+  width: 600px;
+  margin: 0 auto;
+  background-color: aquamarine;
+  padding: 0 20px 20px 20px;
+  border: 10px solid black;
+}
+h1 {
+  font-size: 40px;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+  color: white;
+  text-shadow: 3px 3px 1px;
+}
+p {
+  font-size: 15px;
+  color: beige;
+  width: 300px;
+  line-height: 60%;
+  letter-spacing: 1px;
+}
+
+html {
+  background-color: grey;
+}
+p {
+  font-size: 15px;
+  color: rgb(0, 0, 0);
+  width: 500px;
+  border: 1px solid black;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
